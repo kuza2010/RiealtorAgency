@@ -1,0 +1,76 @@
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Lab_3\RealtorAgency (Course work)\RealtorAgency (Course work)\bin\Debug\RealtorAgency (Course work).exe.config
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Lab_3\RealtorAgency (Course work)\RealtorAgency (Course work)\bin\Debug\RealtorAgency (Course work).exe
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Lab_3\RealtorAgency (Course work)\RealtorAgency (Course work)\bin\Debug\RealtorAgency (Course work).pdb
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Lab_3\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\RealtorAgency (Course work).csprojResolveAssemblyReference.cache
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Lab_3\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\MainWindow.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Lab_3\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\App.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Lab_3\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\RealtorAgency (Course work)_MarkupCompile.cache
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Lab_3\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\RealtorAgency (Course work)_MarkupCompile.lref
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Lab_3\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\MainWindow.baml
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Lab_3\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\RealtorAgency (Course work).g.resources
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Lab_3\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\RealtorAgency__Course_work_.Properties.Resources.resources
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Lab_3\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\RealtorAgency (Course work).csproj.GenerateResource.Cache
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Lab_3\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\RealtorAgency (Course work).exe
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Lab_3\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\RealtorAgency (Course work).pdb
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Lab_3\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\Client.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Lab_3\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\Client.baml
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\bin\Debug\RealtorAgency (Course work).exe.config
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\RealtorAgency (Course work).exe
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\RealtorAgency (Course work).pdb
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\RealtorAgency (Course work).csprojResolveAssemblyReference.cache
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\Client.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\MainWindow.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\App.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\RealtorAgency (Course work)_MarkupCompile.cache
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\RealtorAgency (Course work)_MarkupCompile.lref
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\bin\Debug\RealtorAgency (Course work).exe
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\bin\Debug\RealtorAgency (Course work).pdb
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\Client.baml
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\MainWindow.baml
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\RealtorAgency (Course work).g.resources
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\RealtorAgency__Course_work_.Properties.Resources.resources
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\RealtorAgency (Course work).csproj.GenerateResource.Cache
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\AddedClient.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\AddedClient.baml
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\About.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\About.baml
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\AddApplication.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\AddApplication.baml
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\ExchangeWindow.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\PurchaseWindow.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\SaleWondow.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\ExchangeWindow.baml
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\PurchaseWindow.baml
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\SaleWondow.baml
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\Additional InformationWindow.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\RealtorAgency (Course work)\obj\Debug\Additional InformationWindow.baml
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\bin\Debug\RealtorAgency (Course work).exe.config
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\RealtorAgency (Course work).exe
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\RealtorAgency (Course work).pdb
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\RealtorAgency (Course work).csprojResolveAssemblyReference.cache
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\RealtorAgency (Course work)_MarkupCompile.cache
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\RealtorAgency (Course work)_MarkupCompile.lref
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\bin\Debug\RealtorAgency (Course work).exe
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\bin\Debug\RealtorAgency (Course work).pdb
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\RealtorAgency (Course work).g.resources
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\RealtorAgency__Course_work_.Properties.Resources.resources
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\RealtorAgency (Course work).csproj.GenerateResource.Cache
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\AddApplication.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\AddedClient.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\Client.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\ExchangeWindow.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\PurchaseWindow.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\SaleWondow.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\AddApplication.baml
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\AddedClient.baml
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\Client.baml
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\ExchangeWindow.baml
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\PurchaseWindow.baml
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\SaleWondow.baml
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\About.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\About.baml
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\MainWindow.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\App.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\MainWindow.baml
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\AdditionalInformationWindow.g.cs
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\RealtorAgency (Course work)\obj\Debug\AdditionalInformationWindow.baml

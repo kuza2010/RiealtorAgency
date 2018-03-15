@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RealtorAgency__Course_work_.About" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAABABAAAAAAAAAAAgAQAAgAYBAQACBBAAAAAA=</HashCode>
+      <FileName>About.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.AddApplication" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAABgAAAQAAAAACAABBAAAAAA=</HashCode>
+      <FileName>AddApplication.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.AddedClient" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAABIABAAAAAAAAA=</HashCode>
+      <FileName>AddedClient.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.Additional_InformationWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAASAAAAAAAAAAAAAAAAgACAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>AdditionalInformationWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.App" Collapsed="true">
+    <Position X="23.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.Client" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAgIAAAABABAAAAAAAAAAAA=</HashCode>
+      <FileName>Client.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.ABSOLUTE_CONTROLL" Collapsed="true">
+    <Position X="4.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Controllers\ABSOLUTE_CONTROLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.ClientController" Collapsed="true">
+    <Position X="1.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAgAAAAAAAAAQAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\ClientControllers\ClientController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.ExchangeWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAoAAAQAAABAAAABBEAAAAA=</HashCode>
+      <FileName>ExchangeWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.MainWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAQAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.Clientas">
+    <Position X="18.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAEAAAJQAAgAAAgAAAAAAEAAAEAAAgAAAACAAAAiA=</HashCode>
+      <FileName>Moodel\Clientas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.Exchange" Collapsed="true">
+    <Position X="0.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAQAAAAAAAAAAEAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Moodel\Exchange.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.Home">
+    <Position X="20.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAQgAAAIAAAAAAAAAAAgAQAIIAAAAAQAAAAU=</HashCode>
+      <FileName>Moodel\Home.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.ManagerRiealtorAgency" Collapsed="true">
+    <Position X="18.5" Y="7.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAEAAAAAAYAAAAAAAAAAAA=</HashCode>
+      <FileName>Moodel\ManagerRiealtorAgency.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.Operations" Collapsed="true">
+    <Position X="1.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAQAAAAAAAAAAAAAQEAAAABAAIBAAAAAA=</HashCode>
+      <FileName>Moodel\Operations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.Purchase">
+    <Position X="4" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Moodel\Purchase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.RiealtorAgencyDB">
+    <Position X="16.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAgAASABAAAEAgICAAIAQAEAAAAACAAEEACAAQAAEA=</HashCode>
+      <FileName>Moodel\RiealtorAgencyDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.Sale">
+    <Position X="2.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Moodel\Sale.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.PurchaseWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAEAAgAAAQQAAAAAAABBEAAAAA=</HashCode>
+      <FileName>PurchaseWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.SaleWondow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAEAAgAAAQQAAAAAAABBEAAAAA=</HashCode>
+      <FileName>SaleWondow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.Controllers.AboutControllers.AboutController" Collapsed="true">
+    <Position X="7.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAABAAAAAAAAAAAAAAAAAAIAAAAABABAAA=</HashCode>
+      <FileName>Controllers\AboutControllers\AboutController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.Controllers.AddApplicationControllers.AddApplicationController" Collapsed="true">
+    <Position X="8.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAQAAAAAAAAAAAAAAAAAAAAAIAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\AddApplicationControllers\AddApplicationController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.Controllers.AddedClientControllers.AddClientControll" Collapsed="true">
+    <Position X="4.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAQAAAAAAAAAAAAAAAAACAAIAAgAAAAAAAA=</HashCode>
+      <FileName>Controllers\AddedClientControllers\AddClientControll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.Controllers.ExchangeWindowControllers.ExchangeControll" Collapsed="true">
+    <Position X="1.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAIEAAAAAAAAACAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\ExchangeWindowControllers\ExchangeControll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.Controllers.PurchaseWindowController.PurchaseController" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACQAAAAAAAAAAAAAAAAAAAAACAAIAAAAAAAAQAA=</HashCode>
+      <FileName>Controllers\PurchaseWindowController\PurchaseController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.Controllers.SaleWindowControllers.SaleWindowController" Collapsed="true">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQACAAAAAAAAAAAAAAAAAACCAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\SaleWindowControllers\SaleWindowController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.Moodel.DataBaseWorker" Collapsed="true">
+    <Position X="23" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIAACACACAAAAAAABAAECAAgAAAAAAAAAAAAAAAEI=</HashCode>
+      <FileName>Moodel\DataBaseWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.Moodel.MngrClient" Collapsed="true">
+    <Position X="21.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAgAAIABAAAEAAICAAIAEAAAgAAACAAEEACAAAAAAA=</HashCode>
+      <FileName>Moodel\MngrClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.Properties.Resources" Collapsed="true">
+    <Position X="23.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAABEAAAAQAAAAAAAAQAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtorAgency__Course_work_.Properties.Settings" Collapsed="true">
+    <Position X="23.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="RealtorAgency__Course_work_.Moodel.IExch">
+    <Position X="16.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Moodel\IExch.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RealtorAgency__Course_work_.Moodel.ISalPurch">
+    <Position X="18.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Moodel\ISalPurch.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="RealtorAgency__Course_work_.Operation">
+    <Position X="14.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAEAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Moodel\Clientas.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,84 @@
+﻿<Window x:Class="RealtorAgency__Course_work_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RealtorAgency__Course_work_"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Респект™" Height="170" Width="400" ResizeMode="CanMinimize" Icon="Resources/Main.ico" >
+    <Window.Resources>
+        <Style x:Key="MainBackground">
+            <Setter Property="Control.Background" Value="#edf4fc"/>
+        </Style>
+        <Style x:Key="MenuStyle">
+        <Setter Property="Label.FontFamily" Value="TimeNewRoman"/>
+        <Setter Property="Label.FontSize" Value="20pt"/>
+        <Setter Property="Label.Foreground" Value="black"/>
+            <Setter Property="Label.FontStyle" Value="Italic"/>
+            <Setter Property="Panel.HorizontalAlignment" Value="Left"/>
+        <Setter Property="Panel.VerticalAlignment" Value="center"/>
+        </Style>
+        <Style x:Key="MenuStyle2">
+            <Setter Property="Label.FontFamily" Value="TimeNewRoman"/>
+            <Setter Property="Label.FontSize" Value="20pt"/>
+            <Setter Property="Label.FontStyle" Value="Italic"/>
+            <Setter Property="Label.Foreground" Value="black"/>
+            <Setter Property="Panel.HorizontalAlignment" Value="Center"/>
+            <Setter Property="Panel.VerticalAlignment" Value="center"/>
+        </Style>
+        <Style x:Key="ButtonToolBarStyle">
+            <Setter Property="Button.Background" Value="#b6e2f5"/>
+            <Setter Property="Button.FontFamily" Value="TimeNewRoman"/>
+            <Setter Property="Button.FontSize" Value="10pt"/>
+            <Setter Property="Button.Foreground" Value="Black"/>
+            <Setter Property="Button.BorderThickness" Value="0"/>
+            <Setter Property="Button.Height" Value="35"/>
+            <Setter Property="Button.Width" Value="130"/>
+        </Style>
+
+        <ControlTemplate TargetType="Button" x:Key="ButtonToolBarTemplate">
+            <Border x:Name="BorderButtonToolBar" CornerRadius="15" Style="{StaticResource ButtonToolBarStyle}">
+                <ContentControl HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                Content="{TemplateBinding Content}"/>
+            </Border>
+            <ControlTemplate.Triggers >
+                <Trigger Property="IsMouseOver" Value="true">
+                    <Setter TargetName="BorderButtonToolBar" Property="Background" Value="#9ad3fa" />
+                </Trigger>
+                <Trigger Property="IsPressed" Value="true">
+                    <Setter TargetName="BorderButtonToolBar" Property="BorderThickness" Value="1.5"/>
+                    <Setter TargetName="BorderButtonToolBar" Property="BorderBrush" Value="#6792c1"/>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+    </Window.Resources>
+
+    <Grid x:Name="MainGrid" Style="{StaticResource MainBackground}">
+      
+        <StackPanel>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Image Grid.Column="1" Grid.Row="0" Source="Resources/firm.png" Margin="0,0,10,0" ></Image>
+                <StackPanel Grid.Column="0" Grid.Row="0">
+                    <Label x:Name="FirmName" Style="{StaticResource MenuStyle}" Content="Риэлторская фирма"/>
+                    <Label x:Name="FirmName2" Style="{StaticResource MenuStyle2}" Content="Респект"/>
+                </StackPanel>
+
+                <Canvas Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2">
+                    <Button x:Name="GoClient" Template="{StaticResource ButtonToolBarTemplate}" Content="Перейти к клиентам" Canvas.Top="5" Canvas.Left="10" Click="GoClient_Click"></Button>
+                    <Button x:Name="Exit" Template="{StaticResource ButtonToolBarTemplate}" Content="Выход" Canvas.Top="5"  Canvas.Right="10" Click="Exit_Click"></Button>
+                </Canvas>
+            </Grid>
+        </StackPanel>
+    </Grid>
+    
+</Window>

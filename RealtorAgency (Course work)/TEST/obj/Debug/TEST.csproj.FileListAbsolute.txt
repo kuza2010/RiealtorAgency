@@ -1,0 +1,14 @@
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\TEST\bin\Debug\TEST.dll
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\TEST\bin\Debug\TEST.pdb
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\TEST\bin\Debug\RealtorAgency (Course work).exe
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\TEST\bin\Debug\RealtorAgency (Course work).pdb
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\TEST\obj\Debug\TEST.dll
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work)\TEST\obj\Debug\TEST.pdb
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\TEST\bin\Debug\TEST.dll
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\TEST\bin\Debug\TEST.pdb
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\TEST\bin\Debug\RealtorAgency (Course work).exe
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\TEST\bin\Debug\RealtorAgency (Course work).pdb
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\TEST\obj\Debug\TEST.dll
+C:\Users\Артём\Desktop\АРТЕМ\НГТУ\5семестр\ООП\Сourse_work\RealtorAgency (Course work) — копия\TEST\obj\Debug\TEST.pdb
